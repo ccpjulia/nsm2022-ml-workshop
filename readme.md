@@ -93,6 +93,4 @@ Once in a while it might be useful to re-train the model as well. Sometimes, the
 
 <p align="center">
 <img src="pictures/Model_Production.png" width="700">
-</p>
-
-Now that the model is in production predictive analysis can be performed and valuable actionable insights can be generated. 
+</p> 
